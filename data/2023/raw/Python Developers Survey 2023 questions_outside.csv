@@ -1,0 +1,492 @@
+question_id,column_header,shortname,question_title,parent_title,type,page,place
+7,is.python.main,is.python.main,Is Python the main language you use for your current projects?,,RADIO,2,2
+103,other.lang.None,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Java,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.JavaScript,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.C/C++,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.PHP,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.C#,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Ruby,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Bash / Shell,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Objective-C,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Go,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Visual Basic,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Scala,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.SQL,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Kotlin,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.R,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Swift,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Clojure,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Perl,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Rust,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Groovy,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.TypeScript,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.CoffeeScript,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.HTML/CSS,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Julia,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Mojo,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+103,other.lang.Other,other.lang,What other language(s) do you use?,,CHECKBOX,2,3
+306,python.years,python.years,How long have you been programming in Python?,,RADIO,3,1
+193,years.of.coding,years.of.coding,How many years of professional coding experience do you have?,,RADIO,3,2
+270,main.purposes,main.purposes,For what purposes do you mainly use Python?,,RADIO,3,3
+219,other.purposes.Educational purposes,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.MLOps,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Data engineering,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Academic research,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Data analysis,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Design / Data visualization,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.DevOps / systems administration / writing automation scripts,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Software testing / Writing automated tests,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Software prototyping,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Web development,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Machine learning,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Mobile development,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Desktop development,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Computer graphics,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Network programming,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Game development,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,"other.purposes.Multimedia applications development (apps handling various types of multimedia content, e_g_ audio, graphics, etc_)",other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Embedded development,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Programming of web parsers / scrapers / crawlers,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+219,other.purposes.Other,other.purposes, What do you use Python for?,,CHECKBOX,3,4
+288,use.python.most,use.python.most,What do you use Python for the most?,,RADIO,5,1
+27311319,how.involved.Educational purposes,how.involved,Educational purposes,To what extent are you involved in the following activities?,RADIO,5,2
+27311320,how.involved.Data analysis,how.involved,Data analysis,To what extent are you involved in the following activities?,RADIO,5,2
+27311321,how.involved.DevOps / systems administration / writing automation scripts,how.involved,DevOps / systems administration / writing automation scripts,To what extent are you involved in the following activities?,RADIO,5,2
+27311322,how.involved.Software testing / Writing automated tests,how.involved,Software testing / Writing automated tests,To what extent are you involved in the following activities?,RADIO,5,2
+27311323,how.involved.Software prototyping,how.involved,Software prototyping,To what extent are you involved in the following activities?,RADIO,5,2
+27311324,how.involved.Web development,how.involved,Web development,To what extent are you involved in the following activities?,RADIO,5,2
+27311325,how.involved.Machine learning,how.involved,Machine learning,To what extent are you involved in the following activities?,RADIO,5,2
+27311326,how.involved.Mobile development,how.involved,Mobile development,To what extent are you involved in the following activities?,RADIO,5,2
+27311327,how.involved.Desktop development,how.involved,Desktop development,To what extent are you involved in the following activities?,RADIO,5,2
+27311328,how.involved.Computer graphics,how.involved,Computer graphics,To what extent are you involved in the following activities?,RADIO,5,2
+27311329,how.involved.Network programming,how.involved,Network programming,To what extent are you involved in the following activities?,RADIO,5,2
+27311330,how.involved.Game development,how.involved,Game development,To what extent are you involved in the following activities?,RADIO,5,2
+27311331,"how.involved.Multimedia applications development (apps handling various types of multimedia content, e.g. audio, graphics, etc.)",how.involved,"Multimedia applications development (apps handling various types of multimedia content, e.g. audio, graphics, etc.)",To what extent are you involved in the following activities?,RADIO,5,2
+27311332,how.involved.Embedded development,how.involved,Embedded development,To what extent are you involved in the following activities?,RADIO,5,2
+27311333,how.involved.Programming of web parsers / scrapers / crawlers,how.involved,Programming of web parsers / scrapers / crawlers,To what extent are you involved in the following activities?,RADIO,5,2
+27311334,"how.involved.Other, please specify:",how.involved,"Other, please specify:",To what extent are you involved in the following activities?,RADIO,5,2
+27312617,how.involved.MLOps,how.involved,MLOps,To what extent are you involved in the following activities?,RADIO,5,2
+27312618,how.involved.Academic research,how.involved,Academic research,To what extent are you involved in the following activities?,RADIO,5,2
+27312619,how.involved.Data engineering,how.involved,Data engineering,To what extent are you involved in the following activities?,RADIO,5,2
+27313186,how.involved.Design / Data visualization,how.involved,Design / Data visualization,To what extent are you involved in the following activities?,RADIO,5,2
+352,opensource.contribution,opensource.contribution,"In the past year, have you contributed to open source projects using Python?",,RADIO,6,1
+353,opensource.description.Maintainer / Governance / Leadership,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+353,opensource.description.Documentation / Examples / Educational,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+353,opensource.description.Code,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+353,opensource.description.Tests,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+353,opensource.description.Triaging issues or feature requests,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+353,opensource.description.Community building / Outreach,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+353,opensource.description.Other,opensource.description,"In the past year, how would you describe your contributions to open source?",,CHECKBOX,6,2
+21,python.version.most,python.version.most,Which version of Python do you use the most?,,RADIO,7,1
+258,python2.version.most,python2.version.most,Which version of Python 2 do you use the most?,,RADIO,7,2
+259,python3.version.most,python3.version.most,Which version of Python 3 do you use the most?,,RADIO,7,3
+254,python.version.upgrade.I don’t update,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Somebody else manages Python updates for me,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Python_org,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Build from source,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Automatic upgrade via cloud provider,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Anaconda,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.ActivePython,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Intel Distribution for Python,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,"python.version.upgrade.OS-wide package-management tool (via apt-get, yum, homebrew, etc_)",python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.pyenv,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.pythonz,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.I use Docker containers,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+254,python.version.upgrade.Other,python.version.upgrade,What do you typically use to upgrade your Python version?,,CHECKBOX,7,4
+260,web.frameworks.None,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Django,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Django REST Framework,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.web2py,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Bottle,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.CherryPy,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Flask,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Hug,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Pyramid,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Tornado,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Falcon,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.FastAPI,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Requests,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.aiohttp,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.httpx,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Streamlit,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Starlette,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Quart,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Twisted,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Asyncio,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+260,web.frameworks.Other,web.frameworks,What web frameworks / libraries do you use?,,CHECKBOX,8,1
+269,unittesting.None,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.pytest,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.nose,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.unittest,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.doctest,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.tox,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.Hypothesis,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.mock,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+269,unittesting.Other,unittesting,"Which Python unit-testing frameworks / libraries do you use, if any?",,CHECKBOX,8,2
+262,other.frameworks.None,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.PyQT,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.PyGTK,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.wxPython,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Pillow,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Tkinter,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Pygame,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Kivy,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Six,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Scrapy,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.BeautifulSoup,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.OpenCV-Python,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Pydantic,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.PySide,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.attrs,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+262,other.frameworks.Other,other.frameworks,Which of the following frameworks / libraries do you use?,,CHECKBOX,8,3
+221,cloud.platform.None,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Google Cloud Platform,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.AWS,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Microsoft Azure,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Rackspace,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Heroku,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.DigitalOcean,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Linode,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.PythonAnywhere,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.OpenShift,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.OpenStack,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Tencent,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Alibaba,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Hetzner,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Oracle Cloud,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+221,cloud.platform.Other,cloud.platform,Which of the following cloud platforms do you use?,,CHECKBOX,9,1
+263,run.in.cloud.In virtual machines,run.in.cloud,How do you run code in the cloud (in the production environment)?,,CHECKBOX,9,2
+263,run.in.cloud.Within containers,run.in.cloud,How do you run code in the cloud (in the production environment)?,,CHECKBOX,9,2
+263,run.in.cloud.On a platform-as-a-service (such as Heroku or Google App Engine),run.in.cloud,How do you run code in the cloud (in the production environment)?,,CHECKBOX,9,2
+263,run.in.cloud.Serverless (such as via AWS Lambda or Cloud Functions),run.in.cloud,How do you run code in the cloud (in the production environment)?,,CHECKBOX,9,2
+263,run.in.cloud.None,run.in.cloud,How do you run code in the cloud (in the production environment)?,,CHECKBOX,9,2
+263,run.in.cloud.Other,run.in.cloud,How do you run code in the cloud (in the production environment)?,,CHECKBOX,9,2
+354,kubernetes,kubernetes,Do you use Kubernetes for running your code in containers?,,RADIO,9,3
+355,used.tools.Amazon Elastic Kubernetes Service,used.tools,Which of the following do you use?,,CHECKBOX,9,4
+355,used.tools.Azure Kubernetes Service,used.tools,Which of the following do you use?,,CHECKBOX,9,4
+355,used.tools.Google Kubernetes Engine,used.tools,Which of the following do you use?,,CHECKBOX,9,4
+355,used.tools.RedHat OpenShift,used.tools,Which of the following do you use?,,CHECKBOX,9,4
+355,used.tools.Other,used.tools,Which of the following do you use?,,CHECKBOX,9,4
+264,develop.for.cloud.With local system interpreter,develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,develop.for.cloud.Locally with virtualenv (or similar),develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,develop.for.cloud.In Docker containers,develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,develop.for.cloud.In virtual machines,develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,develop.for.cloud.Using WSL,develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,"develop.for.cloud.In remote development environments (like Gitpod, GitHub Codespaces, etc_)",develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,develop.for.cloud.Directly in the production environment,develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+264,develop.for.cloud.Other,develop.for.cloud,How do you develop for the cloud?,,CHECKBOX,9,5
+268,devenv.os.Windows,devenv.os,What operating system(s) does your development environment use?,,CHECKBOX,9,6
+268,devenv.os.Linux,devenv.os,What operating system(s) does your development environment use?,,CHECKBOX,9,6
+268,devenv.os.macOS,devenv.os,What operating system(s) does your development environment use?,,CHECKBOX,9,6
+268,devenv.os.BSD,devenv.os,What operating system(s) does your development environment use?,,CHECKBOX,9,6
+268,devenv.os.Other,devenv.os,What operating system(s) does your development environment use?,,CHECKBOX,9,6
+356,data.exploration,data.exploration,Do you work on data exploration and processing?,,RADIO,10,1
+357,exploration.tools.None,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Airflow,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Spark,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Kubeflow,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Prefect,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Dask,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Luigi,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Dagster,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.NumPy,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.pandas,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Polars,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Ray,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.An in-house solution,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+357,exploration.tools.Other,exploration.tools,Which tools do you use for data exploration and processing?,,CHECKBOX,10,2
+358,versioning.tools.None,versioning.tools,Which tools do you use for data versioning?,,CHECKBOX,10,3
+358,versioning.tools.DVC,versioning.tools,Which tools do you use for data versioning?,,CHECKBOX,10,3
+358,versioning.tools.Pachyderm,versioning.tools,Which tools do you use for data versioning?,,CHECKBOX,10,3
+358,versioning.tools.Delta lake,versioning.tools,Which tools do you use for data versioning?,,CHECKBOX,10,3
+358,versioning.tools.An in-house solution,versioning.tools,Which tools do you use for data versioning?,,CHECKBOX,10,3
+358,versioning.tools.Other,versioning.tools,Which tools do you use for data versioning?,,CHECKBOX,10,3
+359,dashboard.creation,dashboard.creation,Do you work on creating dashboards?,,RADIO,10,4
+360,dashboard.libraries.None,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+360,dashboard.libraries.Plotly Dash,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+360,dashboard.libraries.Panel,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+360,dashboard.libraries.Voila,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+360,dashboard.libraries.Streamlit,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+360,dashboard.libraries.Gradio,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+360,dashboard.libraries.Other,dashboard.libraries,Which libraries do you use for creating dashboards?,,CHECKBOX,10,5
+361,ml.training,ml.training,Do you train or generate predictions from ML models?,,RADIO,10,6
+362,frameworks.ml.None,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.PyTorch,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.PyTorch Lightning,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Huggingface Transformers,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.TensorFlow,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Keras,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Apache MXNet,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Jax,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Sklearn,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.DeepSpeed,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.SciPy,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.SciKit-Learn,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Theano,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.NLTK,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Gensim,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.spaCy,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Huggingface Diffusers,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.XGBoost,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.CatBoost,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.LightGBM,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.H20ai,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+362,frameworks.ml.Other,frameworks.ml,Which frameworks do you use for ML model training or prediction?,,CHECKBOX,10,7
+363,experiment.tools.None,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.Tensorboard,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.MLFlow,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.Weights & Biases,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.CometML,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.NeptuneML,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.An in-house solution,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+363,experiment.tools.Other,experiment.tools,Which experiment tracking tools do you use?,,CHECKBOX,10,8
+364,training.platforms.None,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Amazon Sagemaker,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.AzureML,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.VertexAI,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Databricks,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Dataiku,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.MosaicML,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Kubeflow,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Metaflow,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Dask,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Ray,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Jupyter Notebook,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Cloud VMs with SSH,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.An in-house solution,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+364,training.platforms.Other,training.platforms,Which platforms do you use for training?,,CHECKBOX,10,9
+365,ml.deployment,ml.deployment,Do you work on ML deployment and inference?,,RADIO,10,10
+366,deployment.tools.None,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Amazon Sagemaker,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.AzureML,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.VertexAI,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Databricks,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Dataiku,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.MosaicML,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.MLFlow,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Nvidia Triton,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Kubeflow,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Huggingface,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Seldon,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Bento,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.An in-house solution,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+366,deployment.tools.Other,deployment.tools,Which platforms or tools do you use for deployment and inference?,,CHECKBOX,10,11
+367,collaborative.development,collaborative.development,Do you practice collaborative development?,,RADIO,11,1
+283,orm.I don’t do database development,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.Raw SQL,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.Django ORM,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.SQLAlchemy,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.Peewee,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.Dejavu,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.PonyORM,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.SQLObject,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.Tortoise ORM,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.SQLModel,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+283,orm.Other,orm,"What ORM tool(s) do you use together with Python, if any?",,CHECKBOX,11,3
+282,database.None,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.DB2,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.MS SQL Server,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.MySQL,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Oracle Database,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.PostgreSQL,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.SQLite,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Cassandra,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Couchbase,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.HBase,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.MongoDB,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Neo4j,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Redis,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Amazon Redshift,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.h2,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.MariaDB,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.DynamoDB,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.BigQuery,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.ClickHouse,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Apache Pinot,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Apache Druid,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Spanner,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Firebase Realtime Database,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+282,database.Other,database,"Which database(s) do you regularly use, if any?",,CHECKBOX,11,4
+369,bigdata.work,bigdata.work,Do you work with big data?,,RADIO,11,5
+370,bigdata.PySpark,bigdata,Which one of these big data frameworks do you work with?,,CHECKBOX,11,6
+370,bigdata.PyFlink,bigdata,Which one of these big data frameworks do you work with?,,CHECKBOX,11,6
+370,bigdata.Great Expectations,bigdata,Which one of these big data frameworks do you work with?,,CHECKBOX,11,6
+370,bigdata.PyDeequ,bigdata,Which one of these big data frameworks do you work with?,,CHECKBOX,11,6
+370,bigdata.Other,bigdata,Which one of these big data frameworks do you work with?,,CHECKBOX,11,6
+370,bigdata.None,bigdata,Which one of these big data frameworks do you work with?,,CHECKBOX,11,6
+371,bigdata.solution,bigdata.solution,"While working with big data, do you work with a cloud or with a self-hosted solution?",,RADIO,11,7
+279,ci.None,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.AppVeyor,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.AWS CodePipeline / AWS CodeStar,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Azure DevOps,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Bamboo,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Bitbucket Pipelines,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.CircleCI,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.CruiseControl,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.GitHub Actions,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Gitlab CI,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Google Cloud Build,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Jenkins / Hudson,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.JetBrains Space,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.TeamCity,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Travis CI,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.A custom tool,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+279,ci.Other,ci,Which Continuous Integration (CI) system(s) do you regularly use?,,CHECKBOX,11,8
+280,configuration.management.None,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+280,configuration.management.Salt,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+280,configuration.management.Puppet,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+280,configuration.management.Chef,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+280,configuration.management.Ansible,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+280,configuration.management.A custom solution,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+280,configuration.management.Other,configuration.management,"Which configuration management tools do you use, if any?",,CHECKBOX,11,9
+337,documentation.tool.None,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.Sphinx,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.Wiki,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.Postman,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.Swagger (OpenAPI),documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.MKDocs,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.Doxygen,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,"documentation.tool.Other systems, please specify",documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.rST,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,documentation.tool.Markdown,documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+337,"documentation.tool.Other language, please specify",documentation.tool,What systems and languages do you use to create and build documentation?,,CHECKBOX,11,10
+298,ide.main,ide.main,What is the main editor you use for your current Python development?,,RADIO,12,1
+372,vscode.wrangler,vscode.wrangler,Do you use VS Code Data Wrangler?,,RADIO,12,2
+373,jupyter.vscode,jupyter.vscode,Do you use Jupyter support provided by Visual Studio Code?,,RADIO,12,3
+390,jupyter.intellij,jupyter.intellij,Do you use Jupyter support provided by IntelliJ IDEA?,,RADIO,12,4
+374,jupyter.pycharm,jupyter.pycharm,Do you use Jupyter support provided by PyCharm Professional Edition?,,RADIO,12,5
+375,jupyter.dataspell,jupyter.dataspell,Do you use Jupyter support provided by DataSpell?,,RADIO,12,6
+300,ide.editor.None,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.PyCharm Professional Edition,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Other,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.PyCharm Community Edition,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Sublime Text,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Vim,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Atom,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Visual Studio Code,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Eclipse with PyDev,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.JupyterLab,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Jupyter Notebook,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.IntelliJ IDEA,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.NotePad++,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.IDLE,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Emacs,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Python Tools for Visual Studio (PTVS),ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.DataSpell,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Spyder,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Neovim,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Nano,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+300,ide.editor.Wing IDE,ide.editor,"What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​",,CHECKBOX,13,1
+150,several.projects,several.projects,Do you regularly work on multiple projects at the same time?,,RADIO,13,2
+60,ide.editor.features.Use autocompletion  in your editor,ide.editor.features,Use autocompletion  in your editor,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+61,ide.editor.features.Use a debugger,ide.editor.features,Use a debugger,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+62,ide.editor.features.Refactor your code,ide.editor.features,Refactor your code,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+63,ide.editor.features.Use version control systems,ide.editor.features,Use version control systems,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+64,ide.editor.features.Use code linting (programs that analyze code for potential errors),ide.editor.features,Use code linting (programs that analyze code for potential errors),"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+65,ide.editor.features.Use Python virtual environments for your projects,ide.editor.features,Use Python virtual environments for your projects,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+66,ide.editor.features.Use SQL databases,ide.editor.features,Use SQL databases ,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+67,"ide.editor.features.Run / debug or edit code on remote machines (remote hosts, VMs, etc.)",ide.editor.features,"Run / debug or edit code on remote machines (remote hosts, VMs, etc.)","When developing in Python, how often do you …? (Optional)",RADIO,13,3
+68,ide.editor.features.Use a Python profiler,ide.editor.features,Use a Python profiler,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+69,ide.editor.features.Write tests for your code,ide.editor.features,Write tests for your code,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+70,ide.editor.features.Use code coverage,ide.editor.features,Use code coverage,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+147,ide.editor.features.Use type hinting,ide.editor.features,Use type hinting,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+148,ide.editor.features.Use Continuous Integration tools,ide.editor.features,Use Continuous Integration tools,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+149,ide.editor.features.Use issue trackers,ide.editor.features,Use issue trackers,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+222,ide.editor.features.Use NoSQL databases,ide.editor.features,Use NoSQL databases,"When developing in Python, how often do you …? (Optional)",RADIO,13,3
+88,nps.main.ide,nps.main.ide,"How likely is it that you would recommend [question('value'), id='298'] to a friend or colleague?",,NPS,14,2
+319,environments.isolate.venv (standard library),environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.virtualenv (Python package),environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.virtualenvwrapper,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.Hatch,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.Poetry,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.Pipenv,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.Conda,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.I do not use any tools to isolate Python environments,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+319,environments.isolate.Other,environments.isolate,Which of the following tools do you use to isolate Python environments between projects?,,CHECKBOX,15,1
+325,dependency.tools.Pip,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.Conda,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.Pipenv,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.Poetry,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.PDM,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.Hatch,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.pip-tools,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.Other,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+325,dependency.tools.None,dependency.tools,Which tools do you use to manage dependencies?,,CHECKBOX,15,2
+324,dependency.store.requirements_txt,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.pyproject_toml,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.Pipfile,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.hatch_toml,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.environment_yml,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.setup_py,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.setup_cfg,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.Other,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+324,dependency.store.I don’t store dependency information,dependency.store,What format(s) is your application dependency information stored in?,,CHECKBOX,15,3
+328,packages.install.from.PyPI,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.A local source,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.An internal mirror of PyPI,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.A private Python Package Index,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.Anaconda,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.Other Conda channels (conda-forge or similar),packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.GitHub,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.Artifactory,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.GitLab,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.From Linux distribution,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+328,packages.install.from.Other,packages.install.from,Where do you install packages from? ,,CHECKBOX,15,4
+333,app.publish,app.publish,Do you develop and publish Python packages?,,RADIO,15,5
+377,libraries.tools.Flit,libraries.tools,Which tools do you use to publish packages of your Python libraries?,,CHECKBOX,15,6
+377,libraries.tools.Hatch,libraries.tools,Which tools do you use to publish packages of your Python libraries?,,CHECKBOX,15,6
+377,libraries.tools.PDM,libraries.tools,Which tools do you use to publish packages of your Python libraries?,,CHECKBOX,15,6
+377,libraries.tools.Twine,libraries.tools,Which tools do you use to publish packages of your Python libraries?,,CHECKBOX,15,6
+377,libraries.tools.Poetry,libraries.tools,Which tools do you use to publish packages of your Python libraries?,,CHECKBOX,15,6
+377,libraries.tools.Other,libraries.tools,Which tools do you use to publish packages of your Python libraries?,,CHECKBOX,15,6
+320,environments.container,environments.container,Do you use a virtual environment (e.g. virtualenv) in containers (e.g. Docker)? ,,RADIO,15,7
+378,monorepo,monorepo,"Do you work with a monorepo, i.e. a single repository containing several packages / services, each with its own independently managed dependencies?",,RADIO,15,8
+379,binary.modules.creation,binary.modules.creation,"Do you build binary modules for Python using another language? (like C, C++, Rust, or Go)",,RADIO,15,9
+380,binary.modules.language.C,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.C++,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.Rust,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.Go,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.Fortran,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.Assembly,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.C# / _NET,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+380,binary.modules.language.Other,binary.modules.language,Which language(s) do you use for building binary modules for Python?,,CHECKBOX,15,10
+381,learning.source.None,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Python_org,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Documentation and APIs,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Books,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Blogs,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Podcasts,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.YouTube,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Stack Overflow,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.AI Tools,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,"learning.source.Online coding schools and MOOCs (Codecademy, JetBrains Academy, Coursera, edX, Udacity, etc_)",learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Paid trainer / consultant / mentor,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Conferences / events,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Tech magazines / printed media,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+381,learning.source.Other,learning.source,Where do you typically learn about new tools and technologies that are relevant to your Python development?,,CHECKBOX,16,1
+5,job.team,job.team,How do you spend most of your time working? ,,RADIO,17,1
+194,team.size,team.size,How many people are in your project team?,,RADIO,17,2
+181,employment.status,employment.status,What is your employment status?,,RADIO,17,3
+272,company.size,company.size,How many people work for your company / organization?,,RADIO,17,4
+186,company.industry,company.industry,Choose one from the list:,Which of the following industries best describes your company's business?,MENU,17,5
+183,job.role.DBA,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Architect,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.QA engineer,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Developer / Programmer,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Technical writer,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Technical support,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Data analyst,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Data scientist,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.ML engineer / MLOps,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Academic researcher,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Data engineer,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Business analyst,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Team lead,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Product manager,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.CIO / CEO / CTO,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Systems analyst,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+183,job.role.Other,job.role,Which of the following best describes your job role(s)?,,CHECKBOX,18,1
+173,age,age,Could you tell us your age range?,,RADIO,19,1
+351,gender,gender,Gender: (Optional),,RADIO,19,2
+389,country,country,What is your country or region?,,MENU,19,3

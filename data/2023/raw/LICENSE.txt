@@ -1,0 +1,2 @@
+Copyright © JetBrains s.r.o. 2024
+This work is licensed under the Creative Commons Attribution 4.0 International Public License. To view a copy of the license, visit https://choosealicense.com/licenses/cc-by-4.0/"
