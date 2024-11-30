@@ -1,12 +1,12 @@
 # PSF-Survey-Data-Playground
 Welcome to the PSF Survey Data Playground! This repository contains data from the annual PSF survey, designed to be a comprehensive resource for data cleaning and exploration.
 
-## Features
+### Features
 Data Cleaning: Practice and refine your data cleaning skills with real-world survey data.
 Data Exploration: Dive into the data to uncover trends, patterns, and insights.
 Storytelling Examples: Explore example stories that demonstrate effective data presentation techniques.
 
-## Getting Started
+### Getting Started
 1. **Clone the Repository**:
   ```bash
     git clone https://github.com/glnnlhmn/PSF-Survey-Data-Playground.git
@@ -31,5 +31,5 @@ Storytelling Examples: Explore example stories that demonstrate effective data p
     ```
 5. **Explore the Data**: Check out the datasets in the data folder.
 
-## License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
