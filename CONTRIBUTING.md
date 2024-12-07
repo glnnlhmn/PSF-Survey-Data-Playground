@@ -14,7 +14,7 @@ Thank you for considering contributing to our project! Here are some guidelines 
 ## Making Changes
 
 1. Make your changes in the new branch.
-2. Optionally, add your name to the [CONTRIBUTORS.md](../CONTRIBUTORS.md) file.
+2. Optionally, add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
 3. Commit your changes with a descriptive commit message.
 
     ```bash
